@@ -1,0 +1,30 @@
+In this section we will brifey discuss different  functional requirement of different users.
+
+1.ADMIN :
+
+•	Admin will Accept or Reject the registration of Universities and Organization
+•	Admin can block and unblock the  Universities and Organizations .
+•	Admin can also see the Internship add by the Organizations.
+
+
+2. University :
+
+•	University  can register himself and registration request will be Approve or Rejected by the Admin .
+•	Can Approve or Reject the request of the student for registration .
+•	Can ADD  / Delete / Update internships .
+
+
+3. Internship Seekers :
+
+•	Students can  register himself and registration request will be Approve or Rejected by the University.
+•	Students  can see internships 
+•	Students can upload their CV’s
+•	Students can apply for internships
+•	Students can update their Profiles
+
+4. Organization :
+
+•	First do registration in Portal and registration request will be Approve or Rejected by the Admin .
+•	Add  / Delete / Update internships .
+•	can update their Profiles .
+•	Respond to Internship request through this portal .
